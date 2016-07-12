@@ -3,7 +3,7 @@ import ItemList from './items/ItemList';
 
 var Order = React.createClass({
   getInitialState: function() {
-    return { items: [ { id: '1', title: 'Product A' } ] };
+    return { items: [ { id: '1', title: 'Product A', price: 10.9, quantity: 1, discount: 1.9 } ] };
   },
   render: function() {
     return (
