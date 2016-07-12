@@ -3,10 +3,14 @@
   "version": "0.0.1",
   "description": "Cart using React",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thiagogsr/cart-react"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Thiago Guimarães",
+  "author": "Thiago Guimarães <thiagogsr@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.10.4",
